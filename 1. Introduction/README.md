@@ -10,7 +10,6 @@ In Java, we use variables to store data. Each variable has an associated data ty
 
 ## Operators
 Operators are used to perform operations on variables and values. Some common operatiors include:
-
 - Arithmetic: Addition (+), subtraction(-), multiplication (*), division (/), modulo (%).
 - Comparison: Equality (==), inequality (!=), greater that (>), less that (<).
 - Logical: And (&&), or (||), not (!).
