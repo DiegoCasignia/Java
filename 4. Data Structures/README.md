@@ -81,3 +81,10 @@ Some common search algorithms include:
 - Binary Search
 - Tree Search
 - Graph Search
+
+## Collections Framework
+Using the interfaces of the Collections Framework in Java is fundamental for writing flexible and reusable code that can work with different types of collections uniformly.
+- List: ArrayList, LinkedList and Vector.
+- Set: HashSet, TreeSet and LinkedHashSet.
+- Map: HashMap, TreeMap, LinkedHashMap and Hashtable.
+- Queue: LinkedList and PriorityQueue.
