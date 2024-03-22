@@ -39,6 +39,7 @@ Types of Trees:
 - B-Tree: a balanced search tree that allows more than two children per node.
 - Red-Black Tree: A red-black tree is another type of self-balancing binary search tree in which each node is colored red or black, and it satisfies certain properties to ensure balance.
 - Trie: A trie is a tree data structure used to efficiently store and retrieve strings.
+
 Basic Operations:
 - Insertion: adding a new node to the tree.
 - Deletion: removing an existing node from the tree.
