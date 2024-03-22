@@ -10,6 +10,7 @@ List can be:
 - Singly list: each node has a link to the next node.
 - Doubly list: each node has a link to the previous and next nodes.
 - Circular list: the last node links to the first, forming a cycle.
+
 Basic Operations:
 - Insertion: adding a new node at a specific position.
 - Deletion: removing a node from the list.
