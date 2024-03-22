@@ -62,9 +62,13 @@ Types of Graphs:
 Sorting algorithms are methods for organizing elements in a sequence in ascending or descending order.
 Some common sorting algorithms include:
 - Bubble Sort
+> An example is in LinkedList
 - Selection Sort
+> An example is in DoublyLinkedList
 - Insertion Sort
+> An example is in CircularLinkedList
 - Merge Sort
+> An example is in Stack
 - Quick Sort
 - Heap Sort
 
