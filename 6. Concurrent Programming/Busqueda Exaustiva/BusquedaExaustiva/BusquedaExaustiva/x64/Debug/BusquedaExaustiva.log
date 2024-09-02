@@ -1,0 +1,3 @@
+﻿cl : línea de comandos  warning D9025: invalidando '/openmp' con '/openmp:llvm'
+  BusquedaExaustiva.cpp
+  BusquedaExaustiva.vcxproj -> D:\DIEGO\Documents\SOFTWARE\PARALELA\u2\LABS\2. Busqueda Exaustiva\BusquedaExaustiva\x64\Debug\BusquedaExaustiva.exe
